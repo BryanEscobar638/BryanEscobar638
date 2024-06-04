@@ -1,6 +1,6 @@
-<h1>Hola :D, soy Bryan Escobar</h1>
-<p>Un aprendiz en el mundo de la programación XD</p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Tecnico+en+sistemas;Tecnico+en+diseño+grafico;ganoso+de+aprender;tecnologo+en+ADSO"></a>
+<h1>¡Hola!, soy Bryan Escobar</h1>
+<p>Un aprendiz en el mundo de la programación.</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=T%C3%A9cnico+en+Sistemas;T%C3%A9cnico+en+Dise%C3%B1o+Grafico;Tecn%C3%B3logo+en+ADSO;Ganoso+de+aprender+%3AD" alt="Typing SVG" /></a>
 <h2>🚀 Lenguajes y herramientas que uso 🚀</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
