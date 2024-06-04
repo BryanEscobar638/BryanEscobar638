@@ -1,8 +1,10 @@
 <h1 align="center">🐺 ¡Hola!, soy Bryan Escobar 🐺</h1>
 <p align="center">Un aprendiz en el mundo de la programación.</p>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=T%C3%A9cnico+en+Sistemas;T%C3%A9cnico+en+Dise%C3%B1o+Grafico;Tecn%C3%B3logo+en+ADSO;Ganoso+de+aprender+%3AD" alt="Typing SVG" /></a>
 <h2>💻 Lenguajes y herramientas que manejo (y estoy aprendiendo) 💻</h2>
 <h3>Frontend</h3>
+</p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html&perline=12" />
   </a>
