@@ -29,7 +29,7 @@
 <h2>GITHUB</h2>
 <div>
     <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=BryanEscobar638&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="">
-    <img style="width: 500px; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEscobar638&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="">
+    <img style="display: inline-block; vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEscobar638&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="">
 </div>
 <h2>🔍 Donde encontrarme y/o contactarme 🔍</h2>
 <p><a target="_blank" href="https://twitter.com/TheWolf6388" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
