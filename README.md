@@ -15,7 +15,7 @@
 </a>
 <h3>Backend</h3>
 <a href="">
-    <img src="https://skillicons.dev/icons?i=py,js&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,js,php&perline=12" />
 </a>
 <h3>Frameworks</h3>
 <a href="">
