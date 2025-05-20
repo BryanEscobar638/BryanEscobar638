@@ -19,17 +19,12 @@
 </a>
 <h3>Frameworks</h3>
 <a href="">
-    <img src="https://skillicons.dev/icons?i=bootstrap&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel&perline=12" />
 </a>
 <h3>Otras tecnologías</h3>
 <a href="">
     <img src="https://skillicons.dev/icons?i=ai,ps,git,github,figma&perline=12" />
 </a>
-<h2>GITHUB</h2>
-<div>
-    <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=BryanEscobar638&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="">
-    <img style="display: inline-block; vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEscobar638&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="">
-</div>
 
 <h2 align="center" >🔍 Donde encontrarme y/o contactarme 🔍</h2>
 <p align="center" ><a target="_blank" href="https://twitter.com/TheWolf6388" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
