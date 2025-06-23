@@ -17,6 +17,10 @@
 <a href="">
     <img src="https://skillicons.dev/icons?i=py,js,php&perline=12" />
 </a>
+<h3>Base de Datos</h3>
+<a href="">
+    <img src="https://skillicons.dev/icons?i=mysql&perline=12" />
+</a>
 <h3>Frameworks</h3>
 <a href="">
     <img src="https://skillicons.dev/icons?i=bootstrap,laravel&perline=12" />
