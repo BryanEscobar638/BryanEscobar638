@@ -23,7 +23,7 @@
 </a>
 <h3>Frameworks</h3>
 <a href="">
-    <img src="https://skillicons.dev/icons?i=bootstrap,laravel&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,fastapi&perline=12" />
 </a>
 <h3>Otras tecnologías</h3>
 <a href="">
