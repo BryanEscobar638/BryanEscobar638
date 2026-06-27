@@ -15,19 +15,19 @@
 </a>
 <h3>Backend</h3>
 <a href="">
-    <img src="https://skillicons.dev/icons?i=py,js,php&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,js,php,ts&perline=12" />
 </a>
 <h3>Base de Datos</h3>
 <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres&perline=12" />
 </a>
 <h3>Frameworks</h3>
 <a href="">
-    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,fastapi&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,fastapi,tailwind&perline=12" />
 </a>
 <h3>Otras tecnologías</h3>
 <a href="">
-    <img src="https://skillicons.dev/icons?i=ai,ps,git,github,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,git,github,figma,bash,nodejs,npm,postman,tensorflow&perline=12" />
 </a>
 
 <h2 align="center" >🔍 Donde encontrarme y/o contactarme 🔍</h2>
